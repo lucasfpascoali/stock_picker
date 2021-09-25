@@ -13,4 +13,4 @@ def stock_picker(stock_prices)
   days
 end
 
-p stock_picker([32,3,6,9,15,8,6,21,1])
+p stock_picker([17,3,6,9,15,8,6,1,10])
